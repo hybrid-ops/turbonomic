@@ -1,4 +1,4 @@
-# Turbonomic Install Steps for the hub or managed cluster
+# Turbonomic install steps for the hub or managed cluster
 This simply implements steps outline in this repo: https://github.com/turbonomic/t8c-install
 
 1. Clone this repo
